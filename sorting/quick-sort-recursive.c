@@ -20,7 +20,7 @@ void quick(int A[], int BEG, int END, int *LOC) {
 
         while (A[LEFT] <= A[*LOC] && LEFT != *LOC)
             LEFT++;
-        if (*LOC == LEFT) 
+        if (*LOC == LEFT)
             return;
         if (A[LEFT] > A[*LOC]) {
             
