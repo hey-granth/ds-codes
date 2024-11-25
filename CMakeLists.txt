@@ -3,4 +3,5 @@ project(ds_codes C)
 
 set(CMAKE_C_STANDARD 17)
 
-add_executable(ds_codes merge_sort.c)
+add_executable(ds_codes merge_sort.c
+        quick-sort-recursive.c)
