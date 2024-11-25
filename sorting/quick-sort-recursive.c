@@ -12,11 +12,9 @@ void quick(int A[], int BEG, int END, int *LOC) {
             return;
         if (A[*LOC] > A[RIGHT]) 
 		{
-          
             int temp = A[*LOC];
             A[*LOC] = A[RIGHT];
             A[RIGHT] = temp;
-
             *LOC = RIGHT;
         }
 
