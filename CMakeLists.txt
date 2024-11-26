@@ -10,5 +10,6 @@ add_executable(ds_codes sorting/merge_sort.c
         arrays/arrays.c
         arrays/arrya-stack.c
         queue/queue.c
-        queue/deque.c)
+        queue/deque.c
+        queue/priority-queue.c)
 add_executable(new_target arrays/arrya-stack.c)
