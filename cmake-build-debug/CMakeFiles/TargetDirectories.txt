@@ -1,3 +1,4 @@
 /home/granth/CLionProjects/ds-codes/cmake-build-debug/CMakeFiles/ds_codes.dir
+/home/granth/CLionProjects/ds-codes/cmake-build-debug/CMakeFiles/new_target.dir
 /home/granth/CLionProjects/ds-codes/cmake-build-debug/CMakeFiles/edit_cache.dir
 /home/granth/CLionProjects/ds-codes/cmake-build-debug/CMakeFiles/rebuild_cache.dir

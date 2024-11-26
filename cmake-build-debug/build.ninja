@@ -79,6 +79,12 @@ build CMakeFiles/ds_codes.dir/arrays/arrays.c.o: C_COMPILER__ds_codes_unscanned_
   OBJECT_DIR = CMakeFiles/ds_codes.dir
   OBJECT_FILE_DIR = CMakeFiles/ds_codes.dir/arrays
 
+build CMakeFiles/ds_codes.dir/arrays/arrya-stack.c.o: C_COMPILER__ds_codes_unscanned_Debug /home/granth/CLionProjects/ds-codes/arrays/arrya-stack.c || cmake_object_order_depends_target_ds_codes
+  DEP_FILE = CMakeFiles/ds_codes.dir/arrays/arrya-stack.c.o.d
+  FLAGS = -g -fdiagnostics-color=always
+  OBJECT_DIR = CMakeFiles/ds_codes.dir
+  OBJECT_FILE_DIR = CMakeFiles/ds_codes.dir/arrays
+
 
 # =============================================================================
 # Link build statements for EXECUTABLE target ds_codes
@@ -87,13 +93,44 @@ build CMakeFiles/ds_codes.dir/arrays/arrays.c.o: C_COMPILER__ds_codes_unscanned_
 #############################################
 # Link the executable ds_codes
 
-build ds_codes: C_EXECUTABLE_LINKER__ds_codes_Debug CMakeFiles/ds_codes.dir/sorting/merge_sort.c.o CMakeFiles/ds_codes.dir/sorting/quick-sort-recursive.c.o CMakeFiles/ds_codes.dir/sorting/bubble-sort.c.o CMakeFiles/ds_codes.dir/linked-list/doubly-linked-list.c.o CMakeFiles/ds_codes.dir/arrays/arrays.c.o
+build ds_codes: C_EXECUTABLE_LINKER__ds_codes_Debug CMakeFiles/ds_codes.dir/sorting/merge_sort.c.o CMakeFiles/ds_codes.dir/sorting/quick-sort-recursive.c.o CMakeFiles/ds_codes.dir/sorting/bubble-sort.c.o CMakeFiles/ds_codes.dir/linked-list/doubly-linked-list.c.o CMakeFiles/ds_codes.dir/arrays/arrays.c.o CMakeFiles/ds_codes.dir/arrays/arrya-stack.c.o
   FLAGS = -g
   OBJECT_DIR = CMakeFiles/ds_codes.dir
   POST_BUILD = :
   PRE_LINK = :
   TARGET_FILE = ds_codes
   TARGET_PDB = ds_codes.dbg
+
+# =============================================================================
+# Object build statements for EXECUTABLE target new_target
+
+
+#############################################
+# Order-only phony target for new_target
+
+build cmake_object_order_depends_target_new_target: phony || .
+
+build CMakeFiles/new_target.dir/arrays/arrya-stack.c.o: C_COMPILER__new_target_unscanned_Debug /home/granth/CLionProjects/ds-codes/arrays/arrya-stack.c || cmake_object_order_depends_target_new_target
+  DEP_FILE = CMakeFiles/new_target.dir/arrays/arrya-stack.c.o.d
+  FLAGS = -g -fdiagnostics-color=always
+  OBJECT_DIR = CMakeFiles/new_target.dir
+  OBJECT_FILE_DIR = CMakeFiles/new_target.dir/arrays
+
+
+# =============================================================================
+# Link build statements for EXECUTABLE target new_target
+
+
+#############################################
+# Link the executable new_target
+
+build new_target: C_EXECUTABLE_LINKER__new_target_Debug CMakeFiles/new_target.dir/arrays/arrya-stack.c.o
+  FLAGS = -g
+  OBJECT_DIR = CMakeFiles/new_target.dir
+  POST_BUILD = :
+  PRE_LINK = :
+  TARGET_FILE = new_target
+  TARGET_PDB = new_target.dbg
 
 
 #############################################
@@ -129,7 +166,7 @@ build rebuild_cache: phony CMakeFiles/rebuild_cache.util
 #############################################
 # Folder: /home/granth/CLionProjects/ds-codes/cmake-build-debug
 
-build all: phony ds_codes
+build all: phony ds_codes new_target
 
 # =============================================================================
 # Built-in targets
