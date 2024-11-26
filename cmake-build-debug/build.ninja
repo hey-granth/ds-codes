@@ -103,6 +103,78 @@ build CMakeFiles/ds_codes.dir/queue/priority-queue.c.o: C_COMPILER__ds_codes_uns
   OBJECT_DIR = CMakeFiles/ds_codes.dir
   OBJECT_FILE_DIR = CMakeFiles/ds_codes.dir/queue
 
+build CMakeFiles/ds_codes.dir/linked-list/circular-linked-list.c.o: C_COMPILER__ds_codes_unscanned_Debug /home/granth/CLionProjects/ds-codes/linked-list/circular-linked-list.c || cmake_object_order_depends_target_ds_codes
+  DEP_FILE = CMakeFiles/ds_codes.dir/linked-list/circular-linked-list.c.o.d
+  FLAGS = -g -fdiagnostics-color=always
+  OBJECT_DIR = CMakeFiles/ds_codes.dir
+  OBJECT_FILE_DIR = CMakeFiles/ds_codes.dir/linked-list
+
+build CMakeFiles/ds_codes.dir/linked-list/single-linked-list.c.o: C_COMPILER__ds_codes_unscanned_Debug /home/granth/CLionProjects/ds-codes/linked-list/single-linked-list.c || cmake_object_order_depends_target_ds_codes
+  DEP_FILE = CMakeFiles/ds_codes.dir/linked-list/single-linked-list.c.o.d
+  FLAGS = -g -fdiagnostics-color=always
+  OBJECT_DIR = CMakeFiles/ds_codes.dir
+  OBJECT_FILE_DIR = CMakeFiles/ds_codes.dir/linked-list
+
+build CMakeFiles/ds_codes.dir/linked-list/cycle-linked-list.c.o: C_COMPILER__ds_codes_unscanned_Debug /home/granth/CLionProjects/ds-codes/linked-list/cycle-linked-list.c || cmake_object_order_depends_target_ds_codes
+  DEP_FILE = CMakeFiles/ds_codes.dir/linked-list/cycle-linked-list.c.o.d
+  FLAGS = -g -fdiagnostics-color=always
+  OBJECT_DIR = CMakeFiles/ds_codes.dir
+  OBJECT_FILE_DIR = CMakeFiles/ds_codes.dir/linked-list
+
+build CMakeFiles/ds_codes.dir/linked-list/addition-of-polynomials.c.o: C_COMPILER__ds_codes_unscanned_Debug /home/granth/CLionProjects/ds-codes/linked-list/addition-of-polynomials.c || cmake_object_order_depends_target_ds_codes
+  DEP_FILE = CMakeFiles/ds_codes.dir/linked-list/addition-of-polynomials.c.o.d
+  FLAGS = -g -fdiagnostics-color=always
+  OBJECT_DIR = CMakeFiles/ds_codes.dir
+  OBJECT_FILE_DIR = CMakeFiles/ds_codes.dir/linked-list
+
+build CMakeFiles/ds_codes.dir/linked-list/linked-list.c.o: C_COMPILER__ds_codes_unscanned_Debug /home/granth/CLionProjects/ds-codes/linked-list/linked-list.c || cmake_object_order_depends_target_ds_codes
+  DEP_FILE = CMakeFiles/ds_codes.dir/linked-list/linked-list.c.o.d
+  FLAGS = -g -fdiagnostics-color=always
+  OBJECT_DIR = CMakeFiles/ds_codes.dir
+  OBJECT_FILE_DIR = CMakeFiles/ds_codes.dir/linked-list
+
+build CMakeFiles/ds_codes.dir/linked-list/reverse-linked-list.c.o: C_COMPILER__ds_codes_unscanned_Debug /home/granth/CLionProjects/ds-codes/linked-list/reverse-linked-list.c || cmake_object_order_depends_target_ds_codes
+  DEP_FILE = CMakeFiles/ds_codes.dir/linked-list/reverse-linked-list.c.o.d
+  FLAGS = -g -fdiagnostics-color=always
+  OBJECT_DIR = CMakeFiles/ds_codes.dir
+  OBJECT_FILE_DIR = CMakeFiles/ds_codes.dir/linked-list
+
+build CMakeFiles/ds_codes.dir/sorting/quick-sort-iterative.c.o: C_COMPILER__ds_codes_unscanned_Debug /home/granth/CLionProjects/ds-codes/sorting/quick-sort-iterative.c || cmake_object_order_depends_target_ds_codes
+  DEP_FILE = CMakeFiles/ds_codes.dir/sorting/quick-sort-iterative.c.o.d
+  FLAGS = -g -fdiagnostics-color=always
+  OBJECT_DIR = CMakeFiles/ds_codes.dir
+  OBJECT_FILE_DIR = CMakeFiles/ds_codes.dir/sorting
+
+build CMakeFiles/ds_codes.dir/searching/binary-recursive.c.o: C_COMPILER__ds_codes_unscanned_Debug /home/granth/CLionProjects/ds-codes/searching/binary-recursive.c || cmake_object_order_depends_target_ds_codes
+  DEP_FILE = CMakeFiles/ds_codes.dir/searching/binary-recursive.c.o.d
+  FLAGS = -g -fdiagnostics-color=always
+  OBJECT_DIR = CMakeFiles/ds_codes.dir
+  OBJECT_FILE_DIR = CMakeFiles/ds_codes.dir/searching
+
+build CMakeFiles/ds_codes.dir/searching/index-sequential.c.o: C_COMPILER__ds_codes_unscanned_Debug /home/granth/CLionProjects/ds-codes/searching/index-sequential.c || cmake_object_order_depends_target_ds_codes
+  DEP_FILE = CMakeFiles/ds_codes.dir/searching/index-sequential.c.o.d
+  FLAGS = -g -fdiagnostics-color=always
+  OBJECT_DIR = CMakeFiles/ds_codes.dir
+  OBJECT_FILE_DIR = CMakeFiles/ds_codes.dir/searching
+
+build CMakeFiles/ds_codes.dir/searching/linear.c.o: C_COMPILER__ds_codes_unscanned_Debug /home/granth/CLionProjects/ds-codes/searching/linear.c || cmake_object_order_depends_target_ds_codes
+  DEP_FILE = CMakeFiles/ds_codes.dir/searching/linear.c.o.d
+  FLAGS = -g -fdiagnostics-color=always
+  OBJECT_DIR = CMakeFiles/ds_codes.dir
+  OBJECT_FILE_DIR = CMakeFiles/ds_codes.dir/searching
+
+build CMakeFiles/ds_codes.dir/searching/binary-iterative.c.o: C_COMPILER__ds_codes_unscanned_Debug /home/granth/CLionProjects/ds-codes/searching/binary-iterative.c || cmake_object_order_depends_target_ds_codes
+  DEP_FILE = CMakeFiles/ds_codes.dir/searching/binary-iterative.c.o.d
+  FLAGS = -g -fdiagnostics-color=always
+  OBJECT_DIR = CMakeFiles/ds_codes.dir
+  OBJECT_FILE_DIR = CMakeFiles/ds_codes.dir/searching
+
+build CMakeFiles/ds_codes.dir/premitive-op.c.o: C_COMPILER__ds_codes_unscanned_Debug /home/granth/CLionProjects/ds-codes/premitive-op.c || cmake_object_order_depends_target_ds_codes
+  DEP_FILE = CMakeFiles/ds_codes.dir/premitive-op.c.o.d
+  FLAGS = -g -fdiagnostics-color=always
+  OBJECT_DIR = CMakeFiles/ds_codes.dir
+  OBJECT_FILE_DIR = CMakeFiles/ds_codes.dir
+
 
 # =============================================================================
 # Link build statements for EXECUTABLE target ds_codes
@@ -111,7 +183,7 @@ build CMakeFiles/ds_codes.dir/queue/priority-queue.c.o: C_COMPILER__ds_codes_uns
 #############################################
 # Link the executable ds_codes
 
-build ds_codes: C_EXECUTABLE_LINKER__ds_codes_Debug CMakeFiles/ds_codes.dir/sorting/merge_sort.c.o CMakeFiles/ds_codes.dir/sorting/quick-sort-recursive.c.o CMakeFiles/ds_codes.dir/sorting/bubble-sort.c.o CMakeFiles/ds_codes.dir/linked-list/doubly-linked-list.c.o CMakeFiles/ds_codes.dir/arrays/arrays.c.o CMakeFiles/ds_codes.dir/arrays/arrya-stack.c.o CMakeFiles/ds_codes.dir/queue/queue.c.o CMakeFiles/ds_codes.dir/queue/deque.c.o CMakeFiles/ds_codes.dir/queue/priority-queue.c.o
+build ds_codes: C_EXECUTABLE_LINKER__ds_codes_Debug CMakeFiles/ds_codes.dir/sorting/merge_sort.c.o CMakeFiles/ds_codes.dir/sorting/quick-sort-recursive.c.o CMakeFiles/ds_codes.dir/sorting/bubble-sort.c.o CMakeFiles/ds_codes.dir/linked-list/doubly-linked-list.c.o CMakeFiles/ds_codes.dir/arrays/arrays.c.o CMakeFiles/ds_codes.dir/arrays/arrya-stack.c.o CMakeFiles/ds_codes.dir/queue/queue.c.o CMakeFiles/ds_codes.dir/queue/deque.c.o CMakeFiles/ds_codes.dir/queue/priority-queue.c.o CMakeFiles/ds_codes.dir/linked-list/circular-linked-list.c.o CMakeFiles/ds_codes.dir/linked-list/single-linked-list.c.o CMakeFiles/ds_codes.dir/linked-list/cycle-linked-list.c.o CMakeFiles/ds_codes.dir/linked-list/addition-of-polynomials.c.o CMakeFiles/ds_codes.dir/linked-list/linked-list.c.o CMakeFiles/ds_codes.dir/linked-list/reverse-linked-list.c.o CMakeFiles/ds_codes.dir/sorting/quick-sort-iterative.c.o CMakeFiles/ds_codes.dir/searching/binary-recursive.c.o CMakeFiles/ds_codes.dir/searching/index-sequential.c.o CMakeFiles/ds_codes.dir/searching/linear.c.o CMakeFiles/ds_codes.dir/searching/binary-iterative.c.o CMakeFiles/ds_codes.dir/premitive-op.c.o
   FLAGS = -g
   OBJECT_DIR = CMakeFiles/ds_codes.dir
   POST_BUILD = :

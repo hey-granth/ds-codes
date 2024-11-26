@@ -8,8 +8,20 @@ add_executable(ds_codes sorting/merge_sort.c
         sorting/bubble-sort.c
         linked-list/doubly-linked-list.c
         arrays/arrays.c
-        arrays/arrya-stack.c
+        arrays/array-stack.c
         queue/queue.c
         queue/deque.c
-        queue/priority-queue.c)
-add_executable(new_target arrays/arrya-stack.c)
+        queue/priority-queue.c
+        linked-list/circular-linked-list.c
+        linked-list/single-linked-list.c
+        linked-list/cycle-linked-list.c
+        linked-list/addition-of-polynomials.c
+        linked-list/linked-list.c
+        linked-list/reverse-linked-list.c
+        sorting/quick-sort-iterative.c
+        searching/binary-recursive.c
+        searching/index-sequential.c
+        searching/linear.c
+        searching/binary-iterative.c
+        premitive-op.c)
+add_executable(new_target arrays/array-stack.c)
