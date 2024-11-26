@@ -73,6 +73,12 @@ build CMakeFiles/ds_codes.dir/linked-list/doubly-linked-list.c.o: C_COMPILER__ds
   OBJECT_DIR = CMakeFiles/ds_codes.dir
   OBJECT_FILE_DIR = CMakeFiles/ds_codes.dir/linked-list
 
+build CMakeFiles/ds_codes.dir/arrays/arrays.c.o: C_COMPILER__ds_codes_unscanned_Debug /home/granth/CLionProjects/ds-codes/arrays/arrays.c || cmake_object_order_depends_target_ds_codes
+  DEP_FILE = CMakeFiles/ds_codes.dir/arrays/arrays.c.o.d
+  FLAGS = -g -fdiagnostics-color=always
+  OBJECT_DIR = CMakeFiles/ds_codes.dir
+  OBJECT_FILE_DIR = CMakeFiles/ds_codes.dir/arrays
+
 
 # =============================================================================
 # Link build statements for EXECUTABLE target ds_codes
@@ -81,7 +87,7 @@ build CMakeFiles/ds_codes.dir/linked-list/doubly-linked-list.c.o: C_COMPILER__ds
 #############################################
 # Link the executable ds_codes
 
-build ds_codes: C_EXECUTABLE_LINKER__ds_codes_Debug CMakeFiles/ds_codes.dir/sorting/merge_sort.c.o CMakeFiles/ds_codes.dir/sorting/quick-sort-recursive.c.o CMakeFiles/ds_codes.dir/sorting/bubble-sort.c.o CMakeFiles/ds_codes.dir/linked-list/doubly-linked-list.c.o
+build ds_codes: C_EXECUTABLE_LINKER__ds_codes_Debug CMakeFiles/ds_codes.dir/sorting/merge_sort.c.o CMakeFiles/ds_codes.dir/sorting/quick-sort-recursive.c.o CMakeFiles/ds_codes.dir/sorting/bubble-sort.c.o CMakeFiles/ds_codes.dir/linked-list/doubly-linked-list.c.o CMakeFiles/ds_codes.dir/arrays/arrays.c.o
   FLAGS = -g
   OBJECT_DIR = CMakeFiles/ds_codes.dir
   POST_BUILD = :
