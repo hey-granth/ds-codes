@@ -5,4 +5,5 @@ set(CMAKE_C_STANDARD 17)
 
 add_executable(ds_codes sorting/merge_sort.c
         sorting/quick-sort-recursive.c
-        sorting/bubble-sort.c)
+        sorting/bubble-sort.c
+        linked-list/doubly-linked-list.c)
