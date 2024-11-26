@@ -8,5 +8,6 @@ add_executable(ds_codes sorting/merge_sort.c
         sorting/bubble-sort.c
         linked-list/doubly-linked-list.c
         arrays/arrays.c
-        arrays/arrya-stack.c)
+        arrays/arrya-stack.c
+        queue/queue.c)
 add_executable(new_target arrays/arrya-stack.c)
