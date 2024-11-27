@@ -181,6 +181,12 @@ build CMakeFiles/ds_codes.dir/queue/queue-using-linked-list.c.o: C_COMPILER__ds_
   OBJECT_DIR = CMakeFiles/ds_codes.dir
   OBJECT_FILE_DIR = CMakeFiles/ds_codes.dir/queue
 
+build CMakeFiles/ds_codes.dir/arrays/postfix.c.o: C_COMPILER__ds_codes_unscanned_Debug /home/granth/CLionProjects/ds-codes/arrays/postfix.c || cmake_object_order_depends_target_ds_codes
+  DEP_FILE = CMakeFiles/ds_codes.dir/arrays/postfix.c.o.d
+  FLAGS = -g -fdiagnostics-color=always
+  OBJECT_DIR = CMakeFiles/ds_codes.dir
+  OBJECT_FILE_DIR = CMakeFiles/ds_codes.dir/arrays
+
 
 # =============================================================================
 # Link build statements for EXECUTABLE target ds_codes
@@ -189,7 +195,7 @@ build CMakeFiles/ds_codes.dir/queue/queue-using-linked-list.c.o: C_COMPILER__ds_
 #############################################
 # Link the executable ds_codes
 
-build ds_codes: C_EXECUTABLE_LINKER__ds_codes_Debug CMakeFiles/ds_codes.dir/sorting/merge_sort.c.o CMakeFiles/ds_codes.dir/sorting/quick-sort-recursive.c.o CMakeFiles/ds_codes.dir/sorting/bubble-sort.c.o CMakeFiles/ds_codes.dir/linked-list/doubly-linked-list.c.o CMakeFiles/ds_codes.dir/arrays/arrays.c.o CMakeFiles/ds_codes.dir/arrays/array-stack.c.o CMakeFiles/ds_codes.dir/queue/queue.c.o CMakeFiles/ds_codes.dir/queue/deque.c.o CMakeFiles/ds_codes.dir/queue/priority-queue.c.o CMakeFiles/ds_codes.dir/linked-list/circular-linked-list.c.o CMakeFiles/ds_codes.dir/linked-list/single-linked-list.c.o CMakeFiles/ds_codes.dir/linked-list/cycle-linked-list.c.o CMakeFiles/ds_codes.dir/linked-list/addition-of-polynomials.c.o CMakeFiles/ds_codes.dir/linked-list/linked-list.c.o CMakeFiles/ds_codes.dir/linked-list/reverse-linked-list.c.o CMakeFiles/ds_codes.dir/sorting/quick-sort-iterative.c.o CMakeFiles/ds_codes.dir/searching/binary-recursive.c.o CMakeFiles/ds_codes.dir/searching/index-sequential.c.o CMakeFiles/ds_codes.dir/searching/linear.c.o CMakeFiles/ds_codes.dir/searching/binary-iterative.c.o CMakeFiles/ds_codes.dir/premitive-op.c.o CMakeFiles/ds_codes.dir/queue/queue-using-linked-list.c.o
+build ds_codes: C_EXECUTABLE_LINKER__ds_codes_Debug CMakeFiles/ds_codes.dir/sorting/merge_sort.c.o CMakeFiles/ds_codes.dir/sorting/quick-sort-recursive.c.o CMakeFiles/ds_codes.dir/sorting/bubble-sort.c.o CMakeFiles/ds_codes.dir/linked-list/doubly-linked-list.c.o CMakeFiles/ds_codes.dir/arrays/arrays.c.o CMakeFiles/ds_codes.dir/arrays/array-stack.c.o CMakeFiles/ds_codes.dir/queue/queue.c.o CMakeFiles/ds_codes.dir/queue/deque.c.o CMakeFiles/ds_codes.dir/queue/priority-queue.c.o CMakeFiles/ds_codes.dir/linked-list/circular-linked-list.c.o CMakeFiles/ds_codes.dir/linked-list/single-linked-list.c.o CMakeFiles/ds_codes.dir/linked-list/cycle-linked-list.c.o CMakeFiles/ds_codes.dir/linked-list/addition-of-polynomials.c.o CMakeFiles/ds_codes.dir/linked-list/linked-list.c.o CMakeFiles/ds_codes.dir/linked-list/reverse-linked-list.c.o CMakeFiles/ds_codes.dir/sorting/quick-sort-iterative.c.o CMakeFiles/ds_codes.dir/searching/binary-recursive.c.o CMakeFiles/ds_codes.dir/searching/index-sequential.c.o CMakeFiles/ds_codes.dir/searching/linear.c.o CMakeFiles/ds_codes.dir/searching/binary-iterative.c.o CMakeFiles/ds_codes.dir/premitive-op.c.o CMakeFiles/ds_codes.dir/queue/queue-using-linked-list.c.o CMakeFiles/ds_codes.dir/arrays/postfix.c.o
   FLAGS = -g
   OBJECT_DIR = CMakeFiles/ds_codes.dir
   POST_BUILD = :

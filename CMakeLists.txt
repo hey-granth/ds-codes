@@ -24,5 +24,6 @@ add_executable(ds_codes sorting/merge_sort.c
         searching/linear.c
         searching/binary-iterative.c
         premitive-op.c
-        queue/queue-using-linked-list.c)
+        queue/queue-using-linked-list.c
+        arrays/postfix.c)
 add_executable(new_target arrays/array-stack.c)
