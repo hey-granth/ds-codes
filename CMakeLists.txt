@@ -26,5 +26,6 @@ add_executable(ds_codes sorting/merge_sort.c
         premitive-op.c
         queue/queue-using-linked-list.c
         arrays/postfix.c
-        arrays/paranthesis-balancing.c)
+        arrays/paranthesis-balancing.c
+        arrays/tower-of-hanoi.c)
 add_executable(new_target arrays/array-stack.c)
