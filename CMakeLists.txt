@@ -31,5 +31,6 @@ add_executable(ds_codes sorting/merge_sort.c
         queue/circular-queue.c
         stack/string-implementation.c
         sorting/insertion-sort.c
-        sorting/selection-sort.c)
+        sorting/selection-sort.c
+        sorting/radix.c)
 add_executable(new_target arrays/array-stack.c)
