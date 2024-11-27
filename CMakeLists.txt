@@ -29,5 +29,6 @@ add_executable(ds_codes sorting/merge_sort.c
         arrays/paranthesis-balancing.c
         arrays/tower-of-hanoi.c
         queue/circular-queue.c
-        stack/string-implementation.c)
+        stack/string-implementation.c
+        sorting/insertion-sort.c)
 add_executable(new_target arrays/array-stack.c)
