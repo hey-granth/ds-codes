@@ -58,7 +58,7 @@ The project is organized into the following main directories:
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/your-username/ds-codes.git
+   git clone https://github.com/hey-granth/ds-codes.git
    cd ds-codes
    ```
 
