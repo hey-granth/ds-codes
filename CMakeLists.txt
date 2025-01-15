@@ -32,5 +32,7 @@ add_executable(ds_codes sorting/merge_sort.c
         stack/string-implementation.c
         sorting/insertion-sort.c
         sorting/selection-sort.c
-        sorting/radix.c)
+        sorting/radix.c
+        "practical 2/LL-insertion.c"
+        "practical 2/tree-countNodes.c")
 add_executable(new_target arrays/array-stack.c)

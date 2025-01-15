@@ -78,7 +78,10 @@
 				26,
 				27,
 				28,
-				29
+				29,
+				30,
+				31,
+				32
 			]
 		}
 	],
@@ -140,7 +143,10 @@
 				26,
 				27,
 				28,
-				29
+				29,
+				30,
+				31,
+				32
 			]
 		}
 	],
@@ -324,6 +330,24 @@
 			"backtrace" : 1,
 			"compileGroupIndex" : 0,
 			"path" : "sorting/radix.c",
+			"sourceGroupIndex" : 0
+		},
+		{
+			"backtrace" : 1,
+			"compileGroupIndex" : 0,
+			"path" : "practical.c",
+			"sourceGroupIndex" : 0
+		},
+		{
+			"backtrace" : 1,
+			"compileGroupIndex" : 0,
+			"path" : "practical 2/LL-insertion.c",
+			"sourceGroupIndex" : 0
+		},
+		{
+			"backtrace" : 1,
+			"compileGroupIndex" : 0,
+			"path" : "practical 2/tree-countNodes.c",
 			"sourceGroupIndex" : 0
 		}
 	],
